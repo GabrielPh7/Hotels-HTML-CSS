@@ -1,0 +1,13 @@
+body {
+  font-family: serif;
+  color: green;
+  font-size: 36px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a::after {
+  content: attr(href);
+}
