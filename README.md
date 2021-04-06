@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Projeto_Hotels" />
+  <img src="readme/Hotels.gif" alt="Projeto_Hotels" />
 
 &#xa0;
 
